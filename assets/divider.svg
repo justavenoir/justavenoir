@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="24" viewBox="0 0 1200 24" fill="none" xml:space="preserve">
+<style>
+text{font-family:'JetBrains Mono','Fira Code','Cascadia Code',Consolas,'Courier New',monospace;white-space:pre;}
+.tw{animation:tw 4s ease-in-out infinite;}
+@keyframes tw{0%,100%{opacity:.12}50%{opacity:1}}
+.blink{animation:blink 1.1s steps(1) infinite;}
+@keyframes blink{50%{opacity:0}}
+.mv{animation:mv 5s linear infinite;}
+@keyframes mv{0%{transform:translateX(-260px)}100%{transform:translateX(1200px)}}
+</style>
+<defs><linearGradient id="dg" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#a9e2d4" stop-opacity="0"/><stop offset=".85" stop-color="#a9e2d4" stop-opacity=".9"/><stop offset="1" stop-color="#fff"/></linearGradient></defs>
+<line x1="20" y1="12" x2="1180" y2="12" stroke="#1b2336" stroke-width="1.5"/>
+<rect class="mv" x="0" y="11" width="260" height="2" fill="url(#dg)"/>
+<path d="M8,12 l6,-5 l6,5 l-6,5z M1180,12 l6,-5 l6,5 l-6,5z" fill="#d6c5a5" opacity=".6"/>
+
+</svg>
