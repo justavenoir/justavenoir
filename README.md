@@ -160,24 +160,25 @@
 ```text
 ╭─ 🌌 MISSION MANIFEST // DEEP_SPACE_DEVELOPMENT ───────────────────────────╮
 │                                                                           │
-│  [OP-01]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
+│  [OP-01]  AVENOIR-SCAN // NEXT-GEN WEB SECURITY POSTURE AUDITOR           │
+│           Bilingual DevSecOps compliance, CSP AST parser & TLS auditor    │
+│           Status: 🟢 OPERATIONAL & DEPLOYED (OWASP ASVS Compliance)       │
+│           Repo  : https://github.com/justavenoir/avenoir-scan             │
+│                                                                           │
+│  [OP-02]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
 │           Cold-boot memory obliterator & OS page-lock defense matrix      │
 │           Status: 🟢 OPERATIONAL (C++20 / Python • MITRE T1003 / T1485)   │
 │           Repo  : https://github.com/justavenoir/event-horizon            │
 │                                                                           │
-│  [OP-02]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
+│  [OP-03]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
 │           Conceals encrypted data inside astrophotography pixel matrix    │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (ChaCha20 + HMAC-SHA256)      │
 │           Repo  : https://github.com/justavenoir/cosmic-steg              │
 │                                                                           │
-│  [OP-03]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
+│  [OP-04]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
 │           Harvests cryptographic entropy from celestial photon noise      │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (NIST SP 800-90B Compliant)   │
 │           Repo  : https://github.com/justavenoir/starlight-entropy        │
-│                                                                           │
-│  [OP-04]  VOIDTRAP // AUTONOMOUS CYBER DECEPTION FRAMEWORK                │
-│           High-fidelity honeytokens & early warning intrusion sentinels   │
-│           Status: 🟢 ACTIVE CANARY (MITRE ATT&CK T1083 / T1552)           │
 │                                                                           │
 │  ─── ALL REPOSITORIES TRANSMITTING ON GITHUB FREQUENCY ─────────────────  │
 ╰───────────────────────────────────────────────────────────────────────────╯
