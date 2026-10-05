@@ -160,17 +160,22 @@
 ```text
 ╭─ 🌌 MISSION MANIFEST // DEEP_SPACE_DEVELOPMENT ───────────────────────────╮
 │                                                                           │
-│  [OP-01]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
+│  [OP-01]  VOIDTRAP // AUTONOMOUS CYBER DECEPTION & CANARY FRAMEWORK       │
+│           High-fidelity honeytokens & early warning intrusion sentinels   │
+│           Status: 🟢 OPERATIONAL & DEPLOYED (MITRE ATT&CK T1083 / T1552)  │
+│           Repo  : https://github.com/justavenoir/voidtrap                 │
+│                                                                           │
+│  [OP-02]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
 │           Conceals encrypted data inside astrophotography pixel matrix    │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (ChaCha20 + HMAC-SHA256)      │
 │           Repo  : https://github.com/justavenoir/cosmic-steg              │
 │                                                                           │
-│  [OP-02]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
+│  [OP-03]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
 │           Harvests cryptographic entropy from celestial photon noise      │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (NIST SP 800-90B Compliant)   │
 │           Repo  : https://github.com/justavenoir/starlight-entropy        │
 │                                                                           │
-│  [OP-03]  CROSS-PLATFORM TELEMETRY SUITE                                  │
+│  [OP-04]  CROSS-PLATFORM TELEMETRY SUITE                                  │
 │           Core: Flutter / Dart • Focus: High-Security Client Dashboard    │
 │           Status: 📱 IN ADVANCED PROTOTYPING                              │
 │                                                                           │
