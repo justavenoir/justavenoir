@@ -160,22 +160,27 @@
 ```text
 ╭─ 🌌 MISSION MANIFEST // DEEP_SPACE_DEVELOPMENT ───────────────────────────╮
 │                                                                           │
-│  [OP-01]  AVENOIR-SCAN // NEXT-GEN WEB SECURITY POSTURE AUDITOR           │
-│           Bilingual DevSecOps compliance, CSP AST parser & TLS auditor    │
+│  [OP-01]  AVENOIR-GUARD // ENDPOINT SENTINEL & THREAT HUNTER              │
+│           Dual Desktop GUI & CLI EDR • Windows Defender & Dropzone Hunter │
+│           Status: 🟢 OPERATIONAL & COMPILED (.EXE GUI + Terminal CLI)     │
+│           Repo  : https://github.com/justavenoir/avenoir-guard            │
+│                                                                           │
+│  [OP-02]  AVENOIR-SCAN // NEXT-GEN WEB SECURITY POSTURE AUDITOR           │
+│           DevSecOps compliance, CSP AST parser & TLS certificate auditor  │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (OWASP ASVS Compliance)       │
 │           Repo  : https://github.com/justavenoir/avenoir-scan             │
 │                                                                           │
-│  [OP-02]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
+│  [OP-03]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
 │           Cold-boot memory obliterator & OS page-lock defense matrix      │
 │           Status: 🟢 OPERATIONAL (C++20 / Python • MITRE T1003 / T1485)   │
 │           Repo  : https://github.com/justavenoir/event-horizon            │
 │                                                                           │
-│  [OP-03]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
+│  [OP-04]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
 │           Conceals encrypted data inside astrophotography pixel matrix    │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (ChaCha20 + HMAC-SHA256)      │
 │           Repo  : https://github.com/justavenoir/cosmic-steg              │
 │                                                                           │
-│  [OP-04]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
+│  [OP-05]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
 │           Harvests cryptographic entropy from celestial photon noise      │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (NIST SP 800-90B Compliant)   │
 │           Repo  : https://github.com/justavenoir/starlight-entropy        │
