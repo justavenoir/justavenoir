@@ -1,60 +1,142 @@
 <div align="center">
 
+<!-- ========================================================================= -->
+<!-- 🌌 MODULE 00: PRIMARY TELEMETRY & SYSTEM INITIALIZATION                  -->
+<!-- ========================================================================= -->
+
 <img src="./assets/header.svg" width="100%" alt="AVENOIR — Cybersecurity Engineer"/>
 
-<br>
+<br><br>
 
-<a href="https://github.com/justavenoir"><img src="https://img.shields.io/badge/GITHUB-justavenoir-0a0f1c?style=for-the-badge&logo=github&logoColor=a9e2d4&labelColor=060a14"/></a>
-<img src="https://img.shields.io/badge/ROLE-CYBERSECURITY_ENGINEER-0a0f1c?style=for-the-badge&logo=hackthebox&logoColor=d6c5a5&labelColor=060a14"/>
-<img src="https://komarev.com/ghpvc/?username=justavenoir&style=for-the-badge&color=86ad9f&label=SIGNALS+RECEIVED" />
+<!-- OS STATUS BAR -->
+<p>
+  <code><b>OS_KERNEL:</b> v4.19-COSMOS</code> &nbsp;•&nbsp; 
+  <code><b>CLEARANCE:</b> LEVEL-5 [ROOT]</code> &nbsp;•&nbsp; 
+  <code><b>NODE:</b> ORBIT_0x7E3</code> &nbsp;•&nbsp; 
+  <code><b>STATUS:</b> <span style="color:#a9e2d4">ACTIVE ●</span></code>
+</p>
+
+<!-- TACTICAL BADGES -->
+<p>
+  <a href="https://github.com/justavenoir"><img src="https://img.shields.io/badge/OPERATOR-AVENOIR-070b14?style=for-the-badge&logo=satellite&logoColor=a9e2d4&labelColor=020409"/></a>
+  <img src="https://img.shields.io/badge/ROLE-CYBERSECURITY_ENGINEER-070b14?style=for-the-badge&logo=shield&logoColor=d6c5a5&labelColor=020409"/>
+  <img src="https://komarev.com/ghpvc/?username=justavenoir&style=for-the-badge&color=86ad9f&label=SIGNALS+INTERCEPTED&labelColor=020409" />
+</p>
 
 <img src="./assets/divider.svg" width="100%"/>
 
 </div>
 
-## `> whoami`
+<!-- ========================================================================= -->
+<!-- 🛸 MODULE 01: OPERATOR IDENTITY & BIOMETRIC AUTH                          -->
+<!-- ========================================================================= -->
+
+### `┌── [ MOD-01 // OPERATOR_IDENTITY ] ──────────────────────────────────────────┐`
 
 <img src="./assets/whoami.svg" width="100%" alt="whoami terminal"/>
 
-> **Security is not a feature. It's a mindset.**
+<br>
+
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center">
+        <b>MISSION DIRECTIVE:</b> <i>"Learn how it works. Understand how it breaks. Build it better. Secure it."</i>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> about_me`
+<!-- ========================================================================= -->
+<!-- 🛰️ MODULE 02: SYSTEM DIRECTIVES & DEFENSE MATRIX                         -->
+<!-- ========================================================================= -->
 
-I'm **Avenoir**, a Cybersecurity Engineer interested in building software, understanding how systems work, and making them more secure.
+### `┌── [ MOD-02 // CORE_DIRECTIVES & SPECIALIZATIONS ] ─────────────────────────┐`
 
-* 🛡️ Cybersecurity &nbsp;·&nbsp; 🔐 Secure Coding &nbsp;·&nbsp; 🔎 Security Research
-* 🐍 Python &nbsp;·&nbsp; ⚙️ C++ &nbsp;·&nbsp; 📱 Flutter &nbsp;·&nbsp; 🌐 Web Technologies
-* 🧠 Problem Solving &nbsp;·&nbsp; 🐧 Linux & Development Tools
+```text
+               ┌──────────────────────────────────────────────┐
+               │         AVENOIR CYBER DEFENSE MATRIX         │
+               └──────────────────────┬───────────────────────┘
+                                      │
+            ┌─────────────────────────┼─────────────────────────┐
+            │                         │                         │
+            ▼                         ▼                         ▼
+   [ OFFENSIVE RESEARCH ]    [ SECURE ENGINEERING ]    [ RESILIENT SYSTEMS ]
+   • Binary Analysis         • Zero-Trust Design       • Fault Tolerance
+   • Vulnerability Audit     • Cryptographic Hygiene   • Linux Hardening
+   • Threat Modeling         • Code Review & Testing   • Automated Monitoring
+            │                         │                         │
+            └─────────────────────────┼─────────────────────────┘
+                                      │
+                                      ▼
+                        [ BUILD SECURELY & DEFEND ]
+```
+
+| Sector | Core Vector | Mission Profile |
+| :--- | :--- | :--- |
+| 🛡️ **Cybersecurity** | Threat Analysis & Auditing | Auditing system surfaces, analyzing threat vectors, and hardening environments. |
+| 🔐 **Secure Development** | Clean & Defensive Code | Designing zero-trust architectures in Python & C++ that resist exploitation. |
+| 📱 **Native Client UX** | Cross-Platform Engineering | Engineering robust, beautiful client-side telemetry applications with Flutter & Dart. |
+| 🐧 **Infrastructure** | Linux & Unix Internals | Deep command-line mastery, shell automation, kernel telemetry, and system monitoring. |
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> tech_stack`
+<!-- ========================================================================= -->
+<!-- 🪐 MODULE 03: TACTICAL ARSENAL & TECH STACK                              -->
+<!-- ========================================================================= -->
+
+### `┌── [ MOD-03 // TACTICAL_ARSENAL & WEAPONRY ] ───────────────────────────────┐`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,dart,html,css&theme=dark" />
+<p><b>CORE COMPUTATION ENGINES & LOW-LEVEL SYSTEMS</b></p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,bash,dart,html,css&theme=dark" />
+
 <br><br>
-<img src="https://skillicons.dev/icons?i=flutter,linux,git,github,vscode&theme=dark" />
+
+<p><b>FRAMEWORKS, RUNTIMES & OPERATIONAL ENVIRONMENTS</b></p>
+<img src="https://skillicons.dev/icons?i=flutter,linux,ubuntu,git,github,vscode&theme=dark" />
+
+<br><br>
+
+<p>
+  <img src="https://img.shields.io/badge/PARADIGM-DEVSECOPS-070b14?style=flat-square&logo=git&logoColor=a9e2d4"/>
+  <img src="https://img.shields.io/badge/ARCH-UNIX_FIRST-070b14?style=flat-square&logo=linux&logoColor=d6c5a5"/>
+  <img src="https://img.shields.io/badge/SECURITY-ZERO_TRUST-070b14?style=flat-square&logo=auth0&logoColor=a9e2d4"/>
+  <img src="https://img.shields.io/badge/UI-MATERIAL_&_FLUTTER-070b14?style=flat-square&logo=flutter&logoColor=bb8c82"/>
+</p>
 
 </div>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> threat_scanner`
+<!-- ========================================================================= -->
+<!-- 📡 MODULE 04: THREAT RADAR & TELEMETRY SUBSYSTEM                          -->
+<!-- ========================================================================= -->
+
+### `┌── [ MOD-04 // LIVE_RADAR & THREAT_SCANNER ] ───────────────────────────────┐`
 
 <img src="./assets/radar.svg" width="100%" alt="threat scanner"/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> skill_matrix`
+<!-- ========================================================================= -->
+<!-- ⚡ MODULE 05: CALIBRATED SKILL MATRIX                                     -->
+<!-- ========================================================================= -->
+
+### `┌── [ MOD-05 // SKILL_CALIBRATION_MATRIX ] ──────────────────────────────────┐`
 
 <img src="./assets/skills.svg" width="100%" alt="skill matrix"/>
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> github_stats`
+<!-- ========================================================================= -->
+<!-- 📊 MODULE 06: ORBITAL TELEMETRY & GITHUB ACTIVITY                         -->
+<!-- ========================================================================= -->
+
+### `┌── [ MOD-06 // ORBITAL_TELEMETRY & GITHUB_DATA ] ───────────────────────────┐`
 
 <div align="center">
 
@@ -69,19 +151,43 @@ I'm **Avenoir**, a Cybersecurity Engineer interested in building software, under
 
 <img src="./assets/divider.svg" width="100%"/>
 
-## `> projects`
+<!-- ========================================================================= -->
+<!-- 🚀 MODULE 07: ACTIVE OPERATIONS & PROJECT MANIFEST                        -->
+<!-- ========================================================================= -->
+
+### `┌── [ MOD-07 // MISSION_MANIFEST & ACTIVE_OPS ] ─────────────────────────────┐`
+
+```text
+╭─ 🌌 MISSION MANIFEST // DEEP_SPACE_DEVELOPMENT ───────────────────────────╮
+│                                                                           │
+│  [OP-01]  SECURE SOFTWARE FRAMEWORK                                       │
+│           Core: Python / C++ • Architecture: Hardened Modular Engine      │
+│           Status: ⚙️ COMPILING PROTOTYPES [ACTIVE]                         │
+│                                                                           │
+│  [OP-02]  CROSS-PLATFORM TELEMETRY SUITE                                  │
+│           Core: Flutter / Dart • Focus: High-Security Client Dashboard    │
+│           Status: 📱 IN ACTIVE RESEARCH & SPRINT                          │
+│                                                                           │
+│  [OP-03]  SECURITY RESEARCH & VULNERABILITY LAB                           │
+│           Core: Linux / Shell / Exploitation Tools                        │
+│           Status: 🔍 CONTINUOUS THREAT MAPPING                            │
+│                                                                           │
+│  ─── ALL REPOSITORIES TRANSMITTING ON GITHUB FREQUENCY ─────────────────  │
+╰───────────────────────────────────────────────────────────────────────────╯
+```
 
 <div align="center">
 
-<a href="https://github.com/justavenoir?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0a0f1c?style=for-the-badge&logo=github&logoColor=a9e2d4"/></a>
+<a href="https://github.com/justavenoir?tab=repositories">
+  <img src="https://img.shields.io/badge/ACCESS_PUBLIC_REPOSITORIES-070b14?style=for-the-badge&logo=github&logoColor=a9e2d4&labelColor=020409"/>
+</a>
 
 </div>
 
-```text
-[ SCANNING ]  new security & software projects are being built...
-[ ETA      ]  coming soon — stay tuned on this frequency.
-```
+<img src="./assets/divider.svg" width="100%"/>
 
-<br>
+<!-- ========================================================================= -->
+<!-- 💫 MODULE 08: TERMINAL INTERFACE & INFINITE LOOP                          -->
+<!-- ========================================================================= -->
 
 <img src="./assets/footer.svg" width="100%" alt="while(alive) { learn(); build(); secure(); }"/>
