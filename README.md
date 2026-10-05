@@ -160,14 +160,15 @@
 ```text
 ╭─ 🌌 MISSION MANIFEST // DEEP_SPACE_DEVELOPMENT ───────────────────────────╮
 │                                                                           │
-│  [OP-01]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
+│  [OP-01]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
+│           Conceals encrypted data inside astrophotography pixel matrix    │
+│           Status: 🟢 OPERATIONAL & DEPLOYED (ChaCha20 + HMAC-SHA256)      │
+│           Repo  : https://github.com/justavenoir/cosmic-steg              │
+│                                                                           │
+│  [OP-02]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
 │           Harvests cryptographic entropy from celestial photon noise      │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (NIST SP 800-90B Compliant)   │
 │           Repo  : https://github.com/justavenoir/starlight-entropy        │
-│                                                                           │
-│  [OP-02]  SECURE SOFTWARE FRAMEWORK                                       │
-│           Core: Python / C++ • Architecture: Zero-Trust Modular Engine    │
-│           Status: ⚙️ ACTIVE SPRINT & THREAT AUDIT                          │
 │                                                                           │
 │  [OP-03]  CROSS-PLATFORM TELEMETRY SUITE                                  │
 │           Core: Flutter / Dart • Focus: High-Security Client Dashboard    │
