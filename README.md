@@ -160,10 +160,10 @@
 ```text
 ╭─ 🌌 MISSION MANIFEST // DEEP_SPACE_DEVELOPMENT ───────────────────────────╮
 │                                                                           │
-│  [OP-01]  VOIDTRAP // AUTONOMOUS CYBER DECEPTION & CANARY FRAMEWORK       │
-│           High-fidelity honeytokens & early warning intrusion sentinels   │
-│           Status: 🟢 OPERATIONAL & DEPLOYED (MITRE ATT&CK T1083 / T1552)  │
-│           Repo  : https://github.com/justavenoir/voidtrap                 │
+│  [OP-01]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
+│           Cold-boot memory obliterator & OS page-lock defense matrix      │
+│           Status: 🟢 OPERATIONAL (C++20 / Python • MITRE T1003 / T1485)   │
+│           Repo  : https://github.com/justavenoir/event-horizon            │
 │                                                                           │
 │  [OP-02]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
 │           Conceals encrypted data inside astrophotography pixel matrix    │
@@ -175,9 +175,9 @@
 │           Status: 🟢 OPERATIONAL & DEPLOYED (NIST SP 800-90B Compliant)   │
 │           Repo  : https://github.com/justavenoir/starlight-entropy        │
 │                                                                           │
-│  [OP-04]  CROSS-PLATFORM TELEMETRY SUITE                                  │
-│           Core: Flutter / Dart • Focus: High-Security Client Dashboard    │
-│           Status: 📱 IN ADVANCED PROTOTYPING                              │
+│  [OP-04]  VOIDTRAP // AUTONOMOUS CYBER DECEPTION FRAMEWORK                │
+│           High-fidelity honeytokens & early warning intrusion sentinels   │
+│           Status: 🟢 ACTIVE CANARY (MITRE ATT&CK T1083 / T1552)           │
 │                                                                           │
 │  ─── ALL REPOSITORIES TRANSMITTING ON GITHUB FREQUENCY ─────────────────  │
 ╰───────────────────────────────────────────────────────────────────────────╯
