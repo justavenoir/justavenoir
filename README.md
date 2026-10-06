@@ -170,17 +170,22 @@
 │           Status: 🟢 OPERATIONAL & DEPLOYED (OWASP ASVS Compliance)       │
 │           Repo  : https://github.com/justavenoir/avenoir-scan             │
 │                                                                           │
-│  [OP-03]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
+│  [OP-03]  AVENOIR-RAM // QUANTUM MEMORY SENTINEL & WORKING SET PURGER     │
+│           Win32 Working Set Trimmer, System Cache Flush & Process Auditor │
+│           Status: 🟢 OPERATIONAL & COMPILED (.EXE GUI + Terminal CLI)     │
+│           Repo  : https://github.com/justavenoir/avenoir-ram              │
+│                                                                           │
+│  [OP-04]  EVENT-HORIZON // ANTI-FORENSICS VOLATILE RAM SHREDDER           │
 │           Cold-boot memory obliterator & OS page-lock defense matrix      │
 │           Status: 🟢 OPERATIONAL (C++20 / Python • MITRE T1003 / T1485)   │
 │           Repo  : https://github.com/justavenoir/event-horizon            │
 │                                                                           │
-│  [OP-04]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
+│  [OP-05]  COSMIC-STEG // DEEP-SPACE STEGANOGRAPHY & COVERT CHANNELS       │
 │           Conceals encrypted data inside astrophotography pixel matrix    │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (ChaCha20 + HMAC-SHA256)      │
 │           Repo  : https://github.com/justavenoir/cosmic-steg              │
 │                                                                           │
-│  [OP-05]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
+│  [OP-06]  STARLIGHT-ENTROPY // TRUE COSMIC QUANTUM KEY GENERATOR          │
 │           Harvests cryptographic entropy from celestial photon noise      │
 │           Status: 🟢 OPERATIONAL & DEPLOYED (NIST SP 800-90B Compliant)   │
 │           Repo  : https://github.com/justavenoir/starlight-entropy        │
